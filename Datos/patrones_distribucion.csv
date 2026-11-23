@@ -1,0 +1,4 @@
+distribution,2opt_hill_climbing,mst_2opt,sa_2opt
+border,85,30,2
+clustered,72,36,9
+uniform,84,28,5
